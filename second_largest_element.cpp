@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 int find_sec_largest(vector<int>& arr,int n){
     int largest=arr[0];
     int slargest=-1;
